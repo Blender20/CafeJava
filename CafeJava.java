@@ -13,7 +13,7 @@ public class CafeJava {
         double dripCoffeePrice = 2;
         double cafeLattePrice = 4.5;
         double cappoccinoPrice = 5;
-         
+
         
         
         // Customer name variables (add yours below)
